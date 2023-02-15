@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f173579-ae6d-49d3-9b4b-d0930b9c9f23/AppServices/subscriptions/4f173579-ae6d-49d3-9b4b-d0930b9c9f23/resourceGroups/SystemTeste/providers/Microsoft.Web/sites/silicio",
+    "appService.deploySubpath": "."
+}
